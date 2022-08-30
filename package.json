@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@faker-js/faker": "^7.4.0",
+    "cypress": "^10.6.0",
+    "cypress-mochawesome-reporter": "^3.2.2",
+    "gerador-validador-cpf": "^5.0.2"
+  }
+}
